@@ -8,34 +8,33 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-kolla-9aba06236/) 
 
-## 🧠 My Tech Arsenal
+## 🧠 Skills and Tech Arsenal
 
-### 🚀 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
+### 🧩 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-### 🧰 Tools & Tech
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7F00FF?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23004899.svg?style=flat&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=flat&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varshkolla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=varshkolla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshkolla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📚 AI/ML Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blueviolet?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-black?style=flat)
 
+### 🌐 Web & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+### 🗄️ Databases & Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004F8B?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat)
 ---
 [![](https://visitcount.itsvg.in/api?id=Ishank56&icon=5&color=13)](https://visitcount.itsvg.in)
 
