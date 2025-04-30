@@ -36,6 +36,41 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004F8B?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat)
 ---
+
+## 💼 Experience
+
+**🔹 Tata Communications – Data Science Intern (03/2025 – Present)**  
+- Developed **GenAI automation systems** using LLMs, APIs, and cloud (AWS/GCP)  
+- Used **LangChain, MLOps, semantic search**, and RAG pipelines  
+- Built production-ready AI systems enabling real-time decision-making  
+
+**🔹 Sandlogic Technologies – ML & DL Intern**  
+- Worked on **Transformers, Hugging Face, AI Prompt Optimization**  
+- Hands-on with **PyTorch, TensorFlow**, and NLP APIs for fine-tuning  
+
+**🔹 Vicuna Kouture – Computer Vision Intern**  
+- Built models using **YOLOv5–v8**, **DCGAN, StyleGAN**  
+- Worked on real-time object detection, model quantization & Docker deployments  
+
+---
+
+## 🧪 Highlight Projects
+
+### 🧠 Medical Chatbot using OpenAI + ChromaDB
+- Used **RAG** to build a chatbot for medical document QA  
+- Achieved 88% accuracy in retrieving relevant PDF-based info
+
+### 📧 Intelligent Email Automation
+- Built an LLM-based pipeline to automate email-to-CRM workflows using **RAG + LlamaIndex**
+
+### 🔍 Market Segmentation with Flask
+- Created **web dashboards** and performed cluster analysis for product-market fit
+
+### ⚡ Smart Solar PV Optimization
+- Implemented **time-series analysis** and energy forecasting for PV systems
+
+### 📷 Face Recognition with Deep Learning
+- Used **FaceNet + Triplet Loss** for one-shot face verification (92% test accuracy)
 [![](https://visitcount.itsvg.in/api?id=Ishank56&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <p align="center">
