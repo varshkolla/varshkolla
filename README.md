@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&multiline=true&width=435&lines=Hi%2C+I+am+Varsha+Kolla+!;I+am+an+AI+enthusiast+with+a+curious+mind!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi%2C+I+am+Varsha+Kolla+!;I+am+an+AI+enthusiast+with+a+curious+mind!" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🌱 I’m currently exploring the world of Tensors!<br><br>💬 Ask me about  Python, GenAI and Computer Vision Stack<br><br>📫 How to reach me kollavarsh@gmail.com
